@@ -81,7 +81,7 @@ const CustomHyperbarics = (props) => {
             <div className="custom-hyperbarics-custom-hyperbaric">
               <img
                 alt="CustomHyperbarics5416"
-                src="/playground_assets/customhyperbarics5416-4by9-1200w.png"
+                src="/playground_assets/img_0479-500w.png"
                 className="custom-hyperbarics-custom-hyperbarics1"
               />
             </div>

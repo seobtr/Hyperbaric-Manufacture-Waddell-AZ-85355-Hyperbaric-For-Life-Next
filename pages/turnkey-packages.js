@@ -117,7 +117,7 @@ const TurnkeyPackages = (props) => {
               <div className="turnkey-packages-container06">
                 <img
                   alt="image"
-                  src="/playground_assets/fortius-420%20%5B1%5D-200h.png"
+                  src="/playground_assets/img_0482-200h.png"
                   className="turnkey-packages-image1"
                 />
               </div>
