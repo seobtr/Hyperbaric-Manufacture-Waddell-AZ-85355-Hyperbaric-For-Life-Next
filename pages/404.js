@@ -22,7 +22,7 @@ const Paage = (props) => {
         <Navbar rootClassName="navbar-root-class-name5"></Navbar>
         <div className="paage-container1">
           <h1 className="paage-text">404</h1>
-          <h1 className="paage-text1">There&apos;s nothing here...</h1>
+          <h1 className="paage-text1">There&apos;s nothing here... 😔</h1>
           <div className="paage-container2">
             <Link href="/">
               <a className="paage-link button">
