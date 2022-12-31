@@ -2,6 +2,9 @@
 
 12-30-2022 -→ 5:57:07 PM (Central)
 
-Site Take Down, monitor and screenshot all seo progresss
+Site Take Down
+-As requested by Annette
+
+monitor and screenshot all seo progress
 
 Development Phase for Hyperbaric for Life

@@ -10,8 +10,7 @@ const Gallery = (props) => {
       <div className="gallery-container">
         <Head>
           <title>
-            Gallery - Hyperbaric Hard-Shell Oxygen Chamber Manufacture |
-            Hyperbaric for Life
+            Customn Hyperbaric Gallery - Hyperbaric Hard-Shell Oxygen Chamber Manufacture
           </title>
           <meta
             property="og:title"

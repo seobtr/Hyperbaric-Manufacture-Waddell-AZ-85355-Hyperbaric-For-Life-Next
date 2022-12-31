@@ -7,7 +7,7 @@ const Copyright = (props) => {
       <div className="copyright-copyright">
         <div className="copyright-max-width max-content-container">
           <span className="copyright-text">
-            <span>© All rights reserved</span>
+            <span>© All rights reserved 2023</span>
             <span>
               <span
                 dangerouslySetInnerHTML={{

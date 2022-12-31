@@ -1,7 +1,7 @@
 {
   "name": "hyperbaric-hard-shell-oxygen-chamber-manufacture-hyperbaric-for-life",
   "version": "1.0.0",
-  "description": "A next project generated based on NextJS",
+  "description": "A next project generated based on NextJS React Framework",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -9,7 +9,7 @@
     "start": "next start",
     "export": "next export"
   },
-  "author": "TeleportHQ",
+  "author": "SEO BTR",
   "license": "MIT",
   "dependencies": {
     "next": "^12.1.0",
